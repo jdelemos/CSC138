@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indexing>
+ <object alt="" name="Image1" object_type="graphic"/>
+ <object alt="" name="Image2" object_type="graphic"/>
+ <object alt="" name="Object1" object_type="ole"/>
+ <object alt="" name="Image3" object_type="graphic"/>
+ <object alt="" name="Object2" object_type="ole"/>
+ <object alt="" name="Object3" object_type="ole"/>
+ <object alt="" name="Image4" object_type="graphic"/>
+ <object alt="" name="Image5" object_type="graphic"/>
+ <object alt="" name="Image6" object_type="graphic"/>
+ <object alt="" name="Object4" object_type="ole"/>
+ <object alt="" name="Object6" object_type="ole"/>
+ <object alt="" name="Object5" object_type="ole"/>
+ <object alt="" name="Image7" object_type="graphic"/>
+ <object alt="" name="Image8" object_type="graphic"/>
+ <object alt="" name="Object7" object_type="ole"/>
+ <object alt="" name="Image9" object_type="graphic"/>
+ <object alt="" name="Image10" object_type="graphic"/>
+ <object alt="" name="Image11" object_type="graphic"/>
+ <paragraph index="63" node_type="writer">Jonathon DeLemos </paragraph>
+ <paragraph index="64" node_type="writer">19.2.2024</paragraph>
+ <paragraph index="65" node_type="writer">Instructor: Badruddoja,Syed</paragraph>
+ <paragraph index="66" node_type="writer">CSC138</paragraph>
+ <paragraph index="67" node_type="writer">STUDENT ID: 213441385</paragraph>
+ <paragraph index="68" node_type="writer">SECTION 4</paragraph>
+ <paragraph index="69" node_type="writer">Course ID: 110586</paragraph>
+ <paragraph index="70" node_type="writer">Class Number: 32640</paragraph>
+ <paragraph index="71" node_type="writer">SSN:###-##-####</paragraph>
+ <paragraph index="74" node_type="writer">HOMEWORK 1</paragraph>
+ <paragraph index="75" node_type="writer">I have each question above the answer I provide. Spaces have been added for formatting purposes. </paragraph>
+ <paragraph index="82" node_type="writer">Homework #1 </paragraph>
+ <paragraph index="83" node_type="writer">Answers</paragraph>
+ <paragraph index="84" node_type="writer">1. Packet Switching</paragraph>
+ <paragraph index="85" node_type="writer">	1a. Transmission is the delay of being passed through the gate to the propagation lane which is the highway that the packet travels to reach it’s destination. </paragraph>
+ <paragraph index="86" node_type="writer">	1b. The arrival of packet rate increase would increase the length of the queue. If you wanted to trap a certain message, I’d imagine you could overwhelm the queue upon arrival of target message, then quickly sift through the queue to find what you want. Sort of like clog pipe just as object gets dropped in it, then worm (up) through it to find the temporarily blocked message. Once the message is found, unblock the pipe, allow it to pass the gate and propagate. </paragraph>
+ <paragraph index="87" node_type="writer">	1c. Short answer: shorten the distance between the objects, but if the object needs to travel that distance, then we must work toward improving the logic behind it’s transmission. </paragraph>
+ <paragraph index="93" node_type="writer">NUMBER 2</paragraph>
+ <paragraph index="96" node_type="writer">2a. For a application that REQUIRES a constant transmission, like a vital healthcare system, we would likely want a circuit based system, because it would maintain constant connection without dropping packets. This would limit the number of users on the network but  that’s irrelevant if we have a dedicated system for a singular vital individual. </paragraph>
+ <paragraph index="98" node_type="writer">2b. 																																																															</paragraph>
+ <paragraph index="120" node_type="writer">NUMBER 3</paragraph>
+ <paragraph index="121" node_type="writer">																										</paragraph>
+ <paragraph index="122" node_type="writer">3a. Okay, so we want to find the likelihood of a single user transmitting at any given time. </paragraph>
+ <paragraph index="123" node_type="writer">																																																																																																											</paragraph>
+ <paragraph index="143" node_type="writer">															</paragraph>
+ <paragraph index="144" node_type="writer">3b. Now we calculate the summative chance 15 users might be transmitting at the same time.</paragraph>
+ <paragraph index="145" node_type="writer">																																																																 										Where p = .01																						Round to six places:</paragraph>
+ <paragraph index="146" node_type="writer">					.252828% probability Final answer </paragraph>
+ <paragraph index="168" node_type="writer">3c. greater than fifteen encompasses 14 summed possibilities, so it’s going to be a larger number. The remaining possibilities are 15-29, or 1-.25828 = </paragraph>
+ <paragraph index="169" node_type="writer">															Final Answer: .747172% probability </paragraph>
+ <paragraph index="194" node_type="writer">NUMBER 4</paragraph>
+ <paragraph index="199" node_type="writer">4a. Here, we discover the throughput is defined by the slowest transmission rate, Link1, which is 1mbps. </paragraph>
+ <paragraph index="200" node_type="writer">4b. </paragraph>
+ <paragraph index="204" node_type="writer">4c. We are going to do the exact same thing, so I will reuse the formula. </paragraph>
+ <paragraph index="205" node_type="writer">																																																													</paragraph>
+ <paragraph index="206" node_type="writer">4d. We are going to do the exact same thing, so I will reuse the formula. </paragraph>
+ <paragraph index="207" node_type="writer">																																																																											</paragraph>
+ <paragraph index="208" node_type="writer">4e. End to end is simply adding the numbers together, so we get approximately 0.101201293, all because of the slow rate that exists within link1. </paragraph>
+ <paragraph index="209" node_type="writer">4f. For this, we set up a proportional equation and discover the answer is 30,000 km. </paragraph>
+ <paragraph index="216" node_type="writer">NUMBER 5</paragraph>
+ <paragraph index="217" node_type="writer">5a. Maximum number of simultaneous connections supported in the network:</paragraph>
+ <paragraph index="218" node_type="writer">   Each router has 4 links available. If we assume each link can support one simultaneous connection, then the maximum number of simultaneous connections in the network is 4 (since there are 4 links per router and there are 4 routers in total).</paragraph>
+ <paragraph index="220" node_type="writer">5b. Maximum number of simultaneous connections from router A to router C:</paragraph>
+ <paragraph index="221" node_type="writer">   Router A has 4 links available. Router C also has 4 links available. Therefore, the maximum number of simultaneous connections from router A to router C is determined by the router with fewer available links, which is 4.</paragraph>
+ <paragraph index="223" node_type="writer">5c. Simultaneous connections for scenario with 4 users at router A and 4 users at router B:</paragraph>
+ <paragraph index="224" node_type="writer">   Router A has 4 links available. Router B also has 4 links available. Router C has 4 links available. Router D also has 4 links available. However, since each router has only 4 links, it's not possible to make 8 simultaneous connections in this network. The maximum number of simultaneous connections that can be made is limited by the number of links available at each router, which is 4.</paragraph>
+ <paragraph index="237" node_type="writer">NUMBER 6</paragraph>
+ <paragraph index="241" node_type="writer">There are 3600 * 24 seconds in a day, therefore I’d use the dedicated link. </paragraph>
+ <paragraph index="260" node_type="writer">NUMBER 7</paragraph>
+ <paragraph index="264" node_type="writer">Here are four protocol layer approaches and their advantages: </paragraph>
+ <paragraph index="266" node_type="writer">From our lectures</paragraph>
+ <paragraph index="267" node_type="writer">Internet application: File transfer protocol, SMTP, HTTP, Rfc </paragraph>
+ <paragraph index="268" node_type="writer">Transport: Transfer control protocol, UDP, data safety, guarantees reliable transport </paragraph>
+ <paragraph index="269" node_type="writer">Network: IP, routing protocols, port designation, priority, allows packets to be interconected. </paragraph>
+ <paragraph index="270" node_type="writer">Physical: ethernet, fiber, wifi, bluetooth etc. </paragraph>
+ <paragraph index="271" node_type="writer">In a broad sense:</paragraph>
+ <paragraph index="272" node_type="writer">Protocol layers allow for the separation of different functions and services into distinct layers, making it easier to understand, maintain, and update the system. Each layer can be developed and modified independently without affecting other layers. </paragraph>
+ <paragraph index="286" node_type="writer">NUMBER 8</paragraph>
+ <object index="291" name="Table1" object_type="table"/>
+ <paragraph index="293" node_type="writer" parent_index="291">20</paragraph>
+ <paragraph index="296" node_type="writer" parent_index="291">8</paragraph>
+ <paragraph index="299" node_type="writer" parent_index="291">12</paragraph>
+ <paragraph index="302" node_type="writer" parent_index="291">8</paragraph>
+ <paragraph index="305" node_type="writer" parent_index="291">4</paragraph>
+ <paragraph index="309" node_type="writer">To organize a single synchronous TDM link receiving the output of the mux with 5 different inputs at the specified bit-rates, we need to allocate time slots in the frame for each input based on its bit-rate. Since the total capacity of the TDM link should accommodate the highest bit-rate input, we need to calculate the total capacity and then divide it into time slots. Total capacity of the TDM link = Sum of bit-rates of all inputs = 20 Kbps + 8 Kbps + 12 Kbps + 8 Kbps + 4 Kbps = 52 Kbps If we use a fixed slot size in the frame, the number of time slots needed would be determined by the frame duration required to transmit all inputs. For example, if we use a frame duration of 1 second: Number of time slots = Total capacity / Frame duration = 52 Kbps / 1 second = 52 slots Therefore, we would need 52 time slots in the frame.</paragraph>
+ <paragraph index="322" node_type="writer">NUMBER 9</paragraph>
+ <paragraph index="324" node_type="writer">														</paragraph>
+ <paragraph index="325" node_type="writer">9a. Drawing from our lab, we could use wireshark. Although there are other programs available that would or could accomplish the same thing. You can capture loads of data like source and destination locationBurp might be able to do it as well. </paragraph>
+</indexing>
